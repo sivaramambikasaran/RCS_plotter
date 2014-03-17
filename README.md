@@ -37,4 +37,4 @@ This generates a vector graphics plot of the Radar Cross Section for an object. 
 8) And thats it. The script with now write a tex file named 'RCS_plot.tex' and compile the tex file and if everything goes well, you will have a file named 'RCS_plot.pdf' containing the figure
 
 
-<img style="float: right" src="./RCS_plot.pdf" />
+<img style="float: right" src="https://github.com/sivaramambikasaran/RCS_plotter/raw/master/RCS_plot.pdf" />
