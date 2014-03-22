@@ -28,13 +28,7 @@ This generates a vector graphics plot of the Radar Cross Section for an object. 
 
 5) Key in the name of the input file, in our case, it is "RCS_input.txt", without quotes.
 
-6) You will then prompted to enter the legend,
-
-	Enter legend:
-
-7) Key in the legend name you want to, for instance, 'test'.
-
-8) And thats it. The script with now write a tex file named 'RCS_plot.tex' and compile the tex file and if everything goes well, you will have a file named 'RCS_plot.pdf' containing the figure
+6) And thats it. The script with now write a tex file named 'RCS_plot.tex' and compile the tex file and if everything goes well, you will have a file named 'RCS_plot.pdf' containing the figure
 
 
 <img style="float: right" src="https://github.com/sivaramambikasaran/RCS_plotter/raw/master/RCS_plot.png" />
